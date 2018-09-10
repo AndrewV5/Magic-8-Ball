@@ -14,6 +14,7 @@
 		DC379818214708E8003A5DE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC379816214708E8003A5DE8 /* LaunchScreen.storyboard */; };
 		DC379823214708E8003A5DE8 /* Magic_8_Ball_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC379822214708E8003A5DE8 /* Magic_8_Ball_testTests.swift */; };
 		DC37982E214708E8003A5DE8 /* Magic_8_Ball_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC37982D214708E8003A5DE8 /* Magic_8_Ball_testUITests.swift */; };
+		DC37983C21470DAD003A5DE8 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = DC37983B21470DAD003A5DE8 /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DC379829214708E8003A5DE8 /* Magic 8 Ball testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Magic 8 Ball testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC37982D214708E8003A5DE8 /* Magic_8_Ball_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic_8_Ball_testUITests.swift; sourceTree = "<group>"; };
 		DC37982F214708E8003A5DE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC37983B21470DAD003A5DE8 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		DC379801214708E6003A5DE8 = {
 			isa = PBXGroup;
 			children = (
+				DC37983B21470DAD003A5DE8 /* readme.md */,
 				DC37980C214708E6003A5DE8 /* Magic 8 Ball test */,
 				DC379821214708E8003A5DE8 /* Magic 8 Ball testTests */,
 				DC37982C214708E8003A5DE8 /* Magic 8 Ball testUITests */,
@@ -231,6 +234,7 @@
 			files = (
 				DC379818214708E8003A5DE8 /* LaunchScreen.storyboard in Resources */,
 				DC379815214708E8003A5DE8 /* Assets.xcassets in Resources */,
+				DC37983C21470DAD003A5DE8 /* readme.md in Resources */,
 				DC379813214708E6003A5DE8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
